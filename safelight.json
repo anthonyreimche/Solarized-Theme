@@ -7,4 +7,5 @@
   "description": "Solarized Light and Solarized Dark themes (Ethan Schoonover's palette).",
   "author": "Anthony Reimche",
   "main": "dist/index.js"
+  "icon": "https://repository-images.githubusercontent.com/1266709246/d81a7ca1-af66-4e70-9c4b-477d42fb07a2"
 }
