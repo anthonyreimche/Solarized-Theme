@@ -1,8 +1,10 @@
 {
   "id": "theme-solarized",
+  "categories": ["Themes"],
   "name": "Solarized Themes",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "minAppVersion": "2.4.3",
   "description": "Solarized Light and Solarized Dark themes (Ethan Schoonover's palette).",
-  "author": "Safelight",
+  "author": "Anthony Reimche",
   "main": "dist/index.js"
 }
