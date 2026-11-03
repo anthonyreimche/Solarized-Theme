@@ -16,11 +16,12 @@ export function activate(api) {
       "--color-border": "#1c5263",
       "--color-border-subtle": "#0a3c49",
       "--color-text-primary": "#93a1a1", // base1
-      "--color-text-secondary": "#657b83", // base00
+      "--color-text-secondary": "#819295", // base00 lifted to 4.5:1 on the panels
       "--color-text-muted": "#4a626c",
       "--color-accent": "#268bd2", // blue
       "--color-accent-hover": "#4ca2dd",
-      "--color-slider-fill": "#586e75", // base01
+      "--color-slider-fill": "#839496", // base0, light enough for dark on-accent text
+      "--color-on-accent": "#00212b",
     },
   });
 
@@ -37,11 +38,12 @@ export function activate(api) {
       "--color-border": "#c3bca5",
       "--color-border-subtle": "#e6dfca",
       "--color-text-primary": "#073642", // base02
-      "--color-text-secondary": "#657b83", // base00
+      "--color-text-secondary": "#4f6b74", // base00 deepened to 4.5:1 on the panels
       "--color-text-muted": "#93a1a1", // base1
       "--color-accent": "#268bd2", // blue
       "--color-accent-hover": "#1b76b8",
       "--color-slider-fill": "#839496", // base0
+      "--color-on-accent": "#001d26",
     },
   });
 }
